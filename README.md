@@ -28,11 +28,11 @@
 
 <h3 align="left">Operative Systems:</h3>
 <p align="left">
-  <a href="https://www.kali.org/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/kali/images/4f107199-98a3-43c2-9d1f-19af3082b59b.svg" alt="Kali Linux" height="40" /></a>
-  <a href="https://ubuntu.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="kali" height="40" /></a>
+  <a href="https://www.kali.org/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg" alt="Kali Linux" height="60" /></a>
+  <a href="https://ubuntu.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="kali" height="40" /></a>
   <a href="https://www.centos.org/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="40" /></a>
-  <a href="https://www.microsoft.com/software-download/windows11" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F10%2FWindows-11-PNG.png&f=1&nofb=1&ipt=bfb171abe02d93c8cf101febbf36d671e856499d13d9aa07a3e7b4a65cfafdac&ipo=images" alt="Windows 11" height="60" /></a>
-  <a href="https://www.apple.com/it/macos/sonoma/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mac_OS_wordmark_logo.svg/800px-Mac_OS_wordmark_logo.svg.png" alt="MacOS" height="25" /></a>
+  <a href="https://www.microsoft.com/software-download/windows11" target="blank"><img align="center" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/80b6b632a4cce01b3d91ad943e3e6391d2d60745/assets/windows10.svg" alt="Windows 11" height="40" /></a>
+  <a href="https://www.apple.com/it/macos/sonoma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/leungwensen/svg-icon/8b84d725b0d2be8f5d87cac7f2c386682ce43563/dist/svg/logos/macosx.svg" alt="MacOS" height="40" /></a>
   <a href="https://www.android.com/intl/en_en/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" height="40" /></a>
 </p>
 
@@ -44,7 +44,7 @@
 <a href="https://javascript.info/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powershell/images/1ba9f345-6513-4bef-a85e-4636d21b98b7.svg" alt="php" width="40" height="40"/> </a>
 </p>
