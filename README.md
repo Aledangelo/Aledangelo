@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **alessandrodangelo.work@gmail.com**.
 
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aledangelo&show_icons=true&locale=en" alt="Aledangelo" /></p>
+
 <h3 align="left">Badges and Certifications:</h3>
 <p align="left">
   <a href="https://certs.ine.com/c27a8362-6132-4755-a853-f862f6571d4a#gs.9i9vsd" target="blank"><img align="center" src="https://templates.images.credential.net/16947190403078086581199361007762.png" alt="eCPPT" height="120" /></a> 
@@ -107,5 +110,4 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="postgresql"  height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aledangelo&show_icons=true&locale=en&layout=compact" alt="giuseppericcio" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aledangelo&show_icons=true&locale=en" alt="Aledangelo" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aledangelo&show_icons=true&locale=en&layout=compact" alt="giuseppericcio" /></p> -->
