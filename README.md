@@ -77,8 +77,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://trello.com/home.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello  " width="40" height="40"/> </a>
 <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/artwork/48c0bc4da900c8eac334709d174ed7fd20bb045c/projects/keycloak/icon/color/keycloak-icon-color.svg" alt="keycloak" width="40" height="40"/> </a>
-<a href="https://www.hashicorp.com/products/vault" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault"  height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://www.hashicorp.com/products/vault" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault"  height="40"/> </a> 
 <a href="https://www.nist.gov/news-events/news/2024/05/nist-launches-aria-new-program-advance-sociotechnical-testing-and" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nist/nist-ar21.svg" alt="owasp" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
@@ -95,6 +94,7 @@
 <p align="left">
 <a href="https://cloud.google.com/gcp/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.cloud.it/home.aspx" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftech.eu%2Fwp-content%2Fuploads%2F2017%2F06%2Flogo-aruba-cloud.png&f=1&nofb=1&ipt=1128918bf691b87851af6cc9d78d64fd180d6c3c6556e453c26405fd5439d821&ipo=images" alt="aws"  height="40"/> </a> 
 </p>
 
