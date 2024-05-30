@@ -90,7 +90,7 @@
 <a href="https://github.com/about" target="_blank" rel="noreferrer"> <img src="./assets/github-icon.svg" alt="github" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="./assets/androidstudio-icon.png" alt="androidstudio" height="50"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="./assets/terraformio-icon.svg" alt="terraform" height="50"/> </a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="./assets/swagger.svg" alt="swagger" width="40" height="40"/> </a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="./assets/Swagger.svg" alt="swagger" width="40" height="40"/> </a>
 <a href="https://joplinapp.org/" target="_blank" rel="noreferrer"> <img src="./assets/joplin-icon.svg" alt="joplin" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language" target="_blank" rel="noreferrer"> <img src="./assets/UML_logo.svg.png" alt="uml" height="40"/> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="./assets/flutterio-icon.svg" alt="flutter" height="40"/> </a>
