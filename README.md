@@ -50,6 +50,7 @@
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powershell/images/1ba9f345-6513-4bef-a85e-4636d21b98b7.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://dart.dev/overview" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/> </a>
 </p>
 
 <h3 align="left">Virtualization:</h3>
@@ -72,13 +73,19 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/93ab09fc0a7a0134a9274af73a572843c480163a/svg/sonarqube.svg" alt="sonarqube" height="40"/> </a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="40"/> </a>
+<a href="https://github.com/about" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg" alt="androidstudio" height="50"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" height="50"/> </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/swagger.svg" alt="swagger" width="40" height="40"/> </a>
+<a href="https://joplinapp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/joplinapp/images/96ce508f-4d79-4c13-a6e8-d95b929836a7.svg" alt="joplin" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/400px-UML_logo.svg.png?20201218070520" alt="uml" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://trello.com/home.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello  " width="40" height="40"/> </a>
+<a href="https://trello.com/home.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/> </a>
+<a href="https://drive.google.com/drive/u/0/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="drive" width="40" height="40"/> </a>
 <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/artwork/48c0bc4da900c8eac334709d174ed7fd20bb045c/projects/keycloak/icon/color/keycloak-icon-color.svg" alt="keycloak" width="40" height="40"/> </a>
 <a href="https://www.hashicorp.com/products/vault" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault"  height="40"/> </a> 
 <a href="https://www.nist.gov/news-events/news/2024/05/nist-launches-aria-new-program-advance-sociotechnical-testing-and" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nist/nist-ar21.svg" alt="owasp" height="40"/> </a>
