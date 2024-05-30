@@ -53,6 +53,24 @@
 <a href="https://dart.dev/overview" target="_blank" rel="noreferrer"> <img src="./assets/dartlang-icon.svg" alt="dart" height="40"/> </a>
 </p>
 
+<h3 align="left">CTF tools:</h3>
+<p align="left">
+<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="./assets/metasploit.svg" alt="metasploit" height="40"/> </a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="./assets/nmap-logo.svg" alt="nmap" width="40" height="40"/> </a>
+<a href="https://owasp.org/" target="_blank" rel="noreferrer"> <img src="./assets/OWASP.svg" alt="owasp" height="40"/> </a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="./assets/burpsuite.svg" alt="burpsuite" height="40"/> </a>
+<a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noreferrer"> <img src="./assets/virustotal-icon.svg" alt="virustotal" height="40"/> </a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="./assets/wireshark-icon.png" alt="wireshark" width="40" height="40"/> </a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="./assets/sonarqube.svg" alt="sonarqube" height="40"/> </a>
+<a href="https://apktool.org/" target="_blank" rel="noreferrer"> <img src="./assets/apktool-icon.png" alt="apktool" width="40" height="40"/> </a>
+<a href="https://sourceware.org/gdb/" target="_blank" rel="noreferrer"> <img src="./assets/gdb-icon.png" alt="apktool" height="40"/> </a>
+<a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"> <img src="./assets/ghidra-icon.png" alt="ghidra" height="40"/> </a>
+<a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"> <img src="./assets/zap-icon.png" alt="zap" height="40"/> </a>
+<a href="https://nmap.org/ncat/" target="_blank" rel="noreferrer"> <img src="./assets/netcat-icon.png" alt="netcat" height="40"/> </a>
+<a href="https://openvpn.net/client/" target="_blank" rel="noreferrer"> <img src="./assets/openvpn-icon.png" alt="openvpn" height="40"/> </a>
+<a href="https://www.exploit-db.com/" target="_blank" rel="noreferrer"> <img src="./assets/exploitdb-icon.png" alt="exploitdb" height="40"/> </a>
+</p>
+
 <h3 align="left">Virtualization:</h3>
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker-official.svg" alt="docker" height="40"/> </a>
@@ -109,18 +127,6 @@
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="./assets/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="./assets/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="./assets/mariadb-ar21.svg" alt="postgresql"  height="40"/> </a>
-</p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aledangelo&show_icons=true&locale=en&layout=compact" alt="giuseppericcio" /></p> -->
-<h3 align="left">CTF tools:</h3>
-<p align="left">
-<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="./assets/metasploit.svg" alt="metasploit" height="40"/> </a>
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="./assets/nmap-logo.svg" alt="nmap" width="40" height="40"/> </a>
-<a href="https://owasp.org/" target="_blank" rel="noreferrer"> <img src="./assets/OWASP.svg" alt="owasp" height="40"/> </a>
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="./assets/burpsuite.svg" alt="burpsuite" height="40"/> </a>
-<a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noreferrer"> <img src="./assets/virustotal-icon.svg" alt="virustotal" height="40"/> </a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="./assets/wireshark-icon.png" alt="wireshark" width="40" height="40"/> </a>
-<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="./assets/sonarqube.svg" alt="sonarqube" height="40"/> </a>
 </p>
 
 <p align="center">
