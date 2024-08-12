@@ -23,6 +23,10 @@
   <a href="https://certs.ine.com/c27a8362-6132-4755-a853-f862f6571d4a#gs.9i9vsd" target="blank"><img align="center" src="https://templates.images.credential.net/16947190403078086581199361007762.png" alt="eCPPT" height="120" /></a> 
 </p>
 
+<p align="left">
+  <a href="https://certs.ine.com/618626b9-0737-4150-b4fa-a1b772704029?record_view=true" target="blank"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109605093" alt="eMAPT" height="120" /></a> 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/alessandro-d%E2%80%99angelo-6a0848206/" target="blank"><img align="center" src="./assets/linked-in-alt.svg" alt="Alessandro D'Angelo" height="30" width="40" /></a> 
