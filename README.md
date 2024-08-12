@@ -9,7 +9,7 @@
 
 - 📚 I'm graduated in _Cyber Security and Computer Engineering_ with a thesis on **Emulation of Post-Exploitation Attack Scenarios based on Cyber Threat Intelligence** in December 2022.
 
-- 🎖️ I hold the **eLearnSecurity Certified Professional Penetration Tester** ([eCPPT](https://ine.com/learning/certifications/external/elearnsecurity-mobile-application-penetration-tester)) certification.
+- 🎖️ I hold the **eLearnSecurity Certified Professional Penetration Tester** ([eCPPT](https://ine.com/learning/certifications/external/elearnsecurity-mobile-application-penetration-tester)) and **eLearn Mobile Application Penetration Tester**c ([eMAPT](https://certs.ine.com/618626b9-0737-4150-b4fa-a1b772704029?record_view=true)) ertification.
  
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/Aledangelo?tab=repositories).
 
